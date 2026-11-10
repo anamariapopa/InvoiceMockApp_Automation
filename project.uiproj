@@ -1,0 +1,6 @@
+{
+  "Name": "InvoiceMockApp_Automation",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
